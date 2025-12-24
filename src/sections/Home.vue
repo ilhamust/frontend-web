@@ -34,7 +34,7 @@ onMounted(() => {
           </h1>
           
           <h2 class="text-lg md:text-xl text-gray-300 font-medium mb-4">
-            Full-Stack Developer & Tech Enthusiast
+            Junior Full-Stack Developer & Tech Enthusiast
           </h2>
 
           <div class="flex flex-wrap items-center gap-5">

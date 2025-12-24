@@ -32,7 +32,7 @@ const experience = [
   {
     company: 'Freelance',
     location: 'Remote / Hybrid',
-    role: 'Full Stack Web Developer',
+    role: 'Junior Full Stack Web Developer',
     period: '2025 - Sekarang',
     active: true,
     details: [
