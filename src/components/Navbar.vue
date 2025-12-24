@@ -12,7 +12,7 @@ const menus = [
   { id: 'home', label: 'Home' },
   { id: 'about', label: 'Tentang' },
   { id: 'skills', label: 'Skill' },
-  { id: 'education', label: 'Resume' },
+  { id: 'experience-education', label: 'Resume' },
   { id: 'projects', label: 'Project' },
   { id: 'contact', label: 'Kontak' },
 ]
