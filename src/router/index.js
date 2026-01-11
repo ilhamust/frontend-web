@@ -16,10 +16,6 @@ import Messages from '../views/admin/Messages.vue'
 // guard
 import { isAuthenticated } from '../utils/auth'
 
-router.afterEach((to) => {
-  document.title = to.meta.title || 'Ilham Mustaqim | Junior Full Stack Web Developer & Tech Enthusiast'
-})
-
 const routes = [
   {
     path: '/',
@@ -47,6 +43,10 @@ const routes = [
 const router = createRouter({
   history: createWebHistory(),
   routes
+})
+
+router.afterEach((to) => {
+  document.title = to.meta.title || 'Ilham Mustaqim | Junior Full Stack Web Developer & Tech Enthusiast'
 })
 
 router.beforeEach((to, from, next) => {
