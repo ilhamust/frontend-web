@@ -41,7 +41,7 @@
           </span>
 
           <h2 class="text-3xl md:text-4xl font-bold mb-6 leading-tight">
-            Seorang Developer yang antusias dengan <span class="text-blue-500">Detail</span> & <span class="text-cyan-400">Estetika</span>.
+            Ilham Mustaqim Developer yang antusias dengan <span class="text-blue-500">Detail</span> & <span class="text-cyan-400">Estetika</span>.
           </h2>
 
           <p class="text-gray-400 leading-relaxed mb-6 text-sm md:text-base">

@@ -30,7 +30,7 @@ onMounted(() => {
            </span>
 
           <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-3">
-            Hi, I'm <span class="text-cyan-400">Ilham</span> <span class="animate-wave inline-block align-middle text-2xl md:text-4xl ml-1">👋</span>
+            Hi, I'm <span class="text-cyan-400">Ilham Mustaqim</span> <span class="animate-wave inline-block align-middle text-2xl md:text-4xl ml-1">👋</span>
           </h1>
           
           <h2 class="text-lg md:text-xl text-gray-300 font-medium mb-4">

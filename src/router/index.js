@@ -16,10 +16,17 @@ import Messages from '../views/admin/Messages.vue'
 // guard
 import { isAuthenticated } from '../utils/auth'
 
+router.afterEach((to) => {
+  document.title = to.meta.title || 'Ilham Mustaqim | Junior Full Stack Web Developer & Tech Enthusiast'
+})
+
 const routes = [
   {
     path: '/',
     component: PublicLayout,
+    meta: {
+    title: 'Ilham Mustaqim | Software Engineer, Tech Enthusiast, Junior Full Stack Devloper, & Designer'
+  },
     children: [
       { path: '', component: PublicLanding },
       { path: 'login', component: Login }
